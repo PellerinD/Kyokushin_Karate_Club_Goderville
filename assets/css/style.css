@@ -1,0 +1,60 @@
+.backgroundheader {
+    background-color: rgba(255, 255, 255, 0.842);
+}
+
+.backgroundark {
+    background-color: rgb(59, 59, 59);
+}
+
+.backgrounred {background-color: rgb(190, 0, 0);
+
+
+}
+
+
+.backgroundarkred {
+    background-color: rgb(138, 4, 4);
+}
+
+.header {
+    font-family: 'Audiowide', cursive;
+}
+
+.navbar {font-family: 'Playfair Display', serif;}
+
+.text { font-family: 'Playfair Display', serif;}
+
+h2 {
+    font-family: 'Audiowide', cursive;	;
+}
+
+
+.video {width: auto;}
+
+.test {
+    height: 100%;
+    width: 100%;
+}
+
+.taille {
+    height: 30rem;
+}
+
+
+.taille2 {
+    height: 39rem;
+}
+
+.taille3 {
+    height: 15rem;
+}
+
+.flotter {
+    height: 20rem;
+}
+
+
+.p1 {
+    line-height: 300%;
+}
+
