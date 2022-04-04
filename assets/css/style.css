@@ -1,12 +1,12 @@
-.backgroundheader {
-    background-color: rgba(255, 255, 255, 0.842);
+body {
+    background-color: rgba(204, 204, 204, 0.842);
 }
 
 .backgroundark {
-    background-color: rgb(59, 59, 59);
+    background-color: rgb(56, 56, 56);
 }
 
-.backgrounred {background-color: rgb(190, 0, 0);
+.backgrounred {background-color: rgb(145, 3, 3);
 
 
 }
@@ -22,10 +22,13 @@
 
 .navbar {font-family: 'Playfair Display', serif;}
 
-.text { font-family: 'Playfair Display', serif;}
+.text { font-family: 'Playfair Display', serif;
+            
+}
 
 h2 {
-    font-family: 'Audiowide', cursive;	;
+    font-family: 'Audiowide', cursive;
+    font-size: 6mm	;
 }
 
 
