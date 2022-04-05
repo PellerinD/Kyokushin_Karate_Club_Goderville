@@ -22,8 +22,12 @@ body {
 
 .navbar {font-family: 'Playfair Display', serif;}
 
-.text {font-family: 'Old Standard TT', serif;;
+.text {font-family: 'Old Standard TT', serif;
             
+}
+
+.text2 { height: 5rm;
+
 }
 
 h2 {
@@ -61,3 +65,8 @@ h2 {
     line-height: 200%;
 }
 
+@media  (min-width: 200px) and (max-width: 765px){  
+    #carte {
+        width: 400px;} 
+    
+}
